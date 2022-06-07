@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on moving projects from Azure DevOps to Github
+- 🌱 I’m currently learning *everything*
+- 💬 Ask me about pinhole film photography and embedded microcontrollers
 
 <!--
 **davidnordstedt/davidnordstedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
